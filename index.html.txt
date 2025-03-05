@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>act.cabugos.html</title>
+  </head>
+  <style>
+    a:link {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:visited {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:hover {
+      color: black;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    a:active {
+      color: black;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+  </style>
+  <style>
+    body {
+      background-image: url("https://i.pinimg.com/236x/33/cf/00/33cf0001248f85be62822889778c63a2.jpg");
+    }
+  </style>
+  <body>
+    <center>
+      <h1>Me, Myself and I</h1>
+      <img
+        src="https://photos.app.goo.gl/WVeh9J7R5YtCzEd99"
+        alt="my photo"
+        width="200"
+      />
+    </center>
+    <h2>About Me:</h2>
+    <p>
+      My name is <b>Louise Carl Cabugos</b> and i am 19 years old
+      <i>studying</i> at <b>St.Matthew College of San Mateo.</b>
+    </p>
+    <h2>Things I want To Do:</h2>
+    <blockquote>
+      i <i>like</i> to <i>explore</i> things like <i>coding</i> and
+      <i>practice</i> it. i also <i>like</i> pc games and mobile games like
+      mobile legend and valorant. i also <i>play</i> basketball and badminton.
+    </blockquote>
+    <h2>My Dream Destination:</h2>
+    <ul type="circle">
+      <li><a href="japan.html">japan</a></li>
+      <li><a href="southkorea.html">South Korea</a></li>
+      <li><a href="usa.html">USA</a></li>
+      <li><a href="canada.html">canada</a></li>
+      <li><a href="russia.html">russia</a></li>
+    </ul>
+    <h2>My Bucketlist:</h2>
+    <ol type="1">
+      <li>Travel to Japan</li>
+      <li>Buy some anime merch</li>
+      <li>Travel to South Korea</li>
+      <li>Eat some food from south korea and meet some of my Kpop idol</li>
+      <li>Travel to USA</li>
+      <li>Watch some NBA</li>
+      <li>Travel to Canada</li>
+      <li>build some Snowman</li>
+      <li>Travel to Russia</li>
+      <li>Meet Vladimir Putin</li>
+    </ol>
+  </body>
+</html>
