@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <title>Canada</title>
+    </head>
+    <style>
+        body {
+          background-image: url('https://i.pinimg.com/236x/33/cf/00/33cf0001248f85be62822889778c63a2.jpg');
+        }
+        </style>
+    <body>
+        <center>
+            <h1 style="font-family:verdana;"> Canada </h1>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQePcRJ8GnLH3Aq2H-mLtiLQd_MHYQAPbf_eg&s" alt="canada" width="200">
+        </center>
+        <h2 style="font-family:verdana;"> About Canada;</h2>
+            <blockquote style="font-family:courier;"> Canada is the second-largest country in the world by land area, located in North America. It is bordered by the United States to the south and has coastlines on the Atlantic, Pacific, and Arctic Oceans. Canada is known for its diverse geography, including vast forests, mountains, prairies, and tundra. The country has a population of around 40 million people and two official languages, English and French.</blockquote>
+       
+            <center><a href="index.html"> <img src="https://cdn-icons-png.flaticon.com/128/1946/1946436.png" alt="home button" width="50"></a></center>
+            
+    </body>
+</html>

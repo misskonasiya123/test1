@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>South Korea</title>
+  </head>
+  <style>
+    body {
+      background-image: url("https://i.pinimg.com/236x/33/cf/00/33cf0001248f85be62822889778c63a2.jpg");
+    }
+  </style>
+  <body>
+    <center>
+      <h1 style="font-family: verdana">South Korea</h1>
+      <img
+        src="https://lh3.googleusercontent.com/gps-cs-s/AB5caB8WVnJFTiDqdQ4WWuYfXWEeZVAJ8A_p8-IsxjIsnFQA4Ssz34ZriSiJnaMIiHFQhCOg4n_ey-JFI0eBSvfTyKXRRsHKuyEVjvCIysIigWm_nW81iIJ4NnST5YLmsQy3mIh8OSdq=w675-h390-n-k-no"
+        alt="canada"
+        width="200"
+      />
+    </center>
+    <h2 style="font-family: verdana">About South Korea;</h2>
+    <blockquote style="font-family: courier">
+      South Korea, officially known as the Republic of Korea (ROK), is a country
+      in East Asia, located on the southern half of the Korean Peninsula. It
+      shares a border with North Korea to the north and is surrounded by the
+      Yellow Sea and the Sea of Japan (East Sea). The capital and largest city
+      is Seoul, a global technology and cultural hub. South Korea has a
+      population of about 52 million people and operates as a democratic
+      republic with a president as its head of state. The country has
+      experienced rapid economic growth since the mid-20th century, transforming
+      into one of the world's leading economies, known for its industries in
+      technology, automobiles, and entertainment. Major global companies like
+      Samsung, Hyundai, and LG originate from South Korea. The country is famous
+      for its rich culture and history, including ancient palaces, Buddhist
+      temples, and traditional hanbok clothing. It is also a global leader in
+      pop culture, with K-pop music, Korean dramas (K-dramas), and Korean
+      cuisine gaining international popularity. Dishes like kimchi, bibimbap,
+      and Korean BBQ are widely loved. South Korea has a highly developed
+      transportation and technology sector, with high-speed internet, bullet
+      trains (KTX), and advanced robotics. It is also known for hosting major
+      international events, such as the 2018 Winter Olympics.
+    </blockquote>
+    <center>
+      <a href="index.html">
+        <img
+          src="https://cdn-icons-png.flaticon.com/128/1946/1946436.png"
+          alt="home button"
+          width="50"
+      /></a>
+    </center>
+  </body>
+</html>

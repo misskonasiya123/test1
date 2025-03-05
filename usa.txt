@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <title>USA</title>
+    </head>
+    <style>
+        body {
+          background-image: url('https://i.pinimg.com/236x/33/cf/00/33cf0001248f85be62822889778c63a2.jpg');
+        }
+        </style>
+    <body>
+        <center>
+            <h1 style="font-family:verdana;"> USA </h1>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2VoieWVzaBi43PfqgJIA8m_iBp6tjCWJNMQ&s" alt="canada" width="200">
+        </center>
+        <h2 style="font-family:verdana;"> About USA;</h2>
+        <blockquote style="font-family:courier;"> The United States of America (USA) is a large and diverse country in North America, bordered by Canada to the north and Mexico to the south, with coastlines on both the Atlantic and Pacific Oceans. It is the third-largest country in the world by land area and population, with over 330 million people.
+
+                The USA is a federal republic with a democratic government, consisting of 50 states and a capital district, Washington, D.C. It is known for its cultural diversity, economic power, and global influence in politics, technology, and entertainment.
+                
+                Geographically, the USA has a variety of landscapes, including mountains (Rocky Mountains, Appalachian Mountains), vast plains, deserts, and coastlines. It has famous natural landmarks such as the Grand Canyon, Yellowstone National Park, and the Great Lakes.
+                
+                Culturally, the USA has a significant impact on music, movies, and fashion, with Hollywood being the center of the global film industry. It is also known for its fast food, sports like American football, basketball, and baseball, and iconic symbols such as the Statue of Liberty, the White House, and the national flag.
+                
+                The country's economy is one of the largest in the world, driven by industries like technology, finance, manufacturing, and agriculture. The USA is home to major global companies like Apple, Google, and Microsoft.</blockquote>
+                <center><a href="index.html"> <img src="https://cdn-icons-png.flaticon.com/128/1946/1946436.png" alt="home button" width="50"></a></center>
+    </body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <title>japan</title>
+    </head>
+    <style>
+        body {
+          background-image: url('https://i.pinimg.com/236x/33/cf/00/33cf0001248f85be62822889778c63a2.jpg');
+        }
+        </style>
+    <body>
+        <center>
+            <h1 style="font-family:verdana;">  Japan </h1>
+            <img src="https://career-advice.jobs.ac.uk/wp-content/uploads/Japan-e1634207070862.jpg.optimal.jpg" alt="canada" width="200">
+        </center>
+        <h2 style="font-family:verdana;"> About Japan;</h2>
+        <blockquote style="font-family:courier;"> Japan is an island nation in East Asia, located in the Pacific Ocean. It consists of four main islands—Honshu, Hokkaido, Kyushu, and Shikoku—along with thousands of smaller islands. The country is known for its unique blend of ancient traditions and modern technology, with historic temples and shrines existing alongside futuristic cities.
+
+                Japan has a population of about 125 million people, with Tokyo as its capital and largest city. The country has a constitutional monarchy, with an emperor as a symbolic figurehead and a parliamentary government led by a prime minister.
+                
+                Culturally, Japan is famous for its traditional arts such as tea ceremonies, calligraphy, and kimono wearing, as well as pop culture phenomena like anime, manga, and video games. The country is also known for its advanced technology, efficient transportation systems (including the Shinkansen bullet trains), and strong economy.</blockquote>
+                <center><a href="index.html"> <img src="https://cdn-icons-png.flaticon.com/128/1946/1946436.png" alt="home button" width="50"></a></center>
+    </body>
+</html>
